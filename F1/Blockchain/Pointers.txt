@@ -1,0 +1,15 @@
+Here are some of the pointers to remember while learning the basics of blockchain:
+
+1.        What is blockchain
+
+2.        History of Blockchain
+
+3.        Network and protocols involved
+
+4.        Understand Cryptography
+
+5.        Ledger and Block structure
+
+6.        Transaction process
+
+7.        Consensus protocols
